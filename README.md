@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Varad-Codes
-- 👀 I’m interested in Native Apps and DSA
-- 🌱 I’m currently learning DSA with C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java and Minecraft Java Edition Modding and making custom clients
+- 🌱 I’m currently Minecraft Modding
 - 📫 How to reach me varad.code19@gmail.com
 
 <!---
