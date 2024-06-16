@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [varadcodes.me](varadcodes.me)
 
-- ⚡ Fun fact **I am a weeb**
+- ⚡ Fun fact **i use arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
