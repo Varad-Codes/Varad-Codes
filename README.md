@@ -20,5 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varad-codes&show_icons=true&locale=en" alt="varad-codes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varad-codes&" alt="varad-codes" /></p>
-
