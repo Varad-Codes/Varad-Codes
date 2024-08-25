@@ -5,9 +5,6 @@
 
 - 📫 How to reach me **varad.code19@gmail.com**, **sharmavarad19@gmail.com**
 
-# - 📄 Know about my experiences [varadcodes.me](varadcodes.me)
-
-# - ⚡ Fun fact **i use arch btw**
 
 
 <h3 align="left">Languages and Tools:</h3>
