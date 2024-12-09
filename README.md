@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad-codes&label=Profile%20views&color=0e75b6&style=flat" alt="varad-codes" /> </p>
 
-- 📫 How to reach me **varad.code19@gmail.com**, **sharmavarad19@gmail.com**
+- 📫 How to reach me **sharmavarad19@gmail.com**
 
 
 
